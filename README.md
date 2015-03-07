@@ -1,1 +1,3 @@
 # ideas
+
+some simple Ideas...
